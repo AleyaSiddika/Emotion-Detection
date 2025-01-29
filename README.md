@@ -13,7 +13,7 @@ To run each project follow the following steps:
 Activate the virtualenv for your project.
 
     $ python -m venv env
-    $ source env/Scripts/activate
+    $ source env/bin/activate
 
 Install project dependencies:
 
